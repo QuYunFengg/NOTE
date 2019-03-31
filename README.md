@@ -6,5 +6,7 @@
 
 ## 文章目录 
 
-1.  [webpack proxyTable设置跨域](www.baidu.com)
+1.  [webpack proxyTable设置跨域](https://github.com/QuYunFengg/NOTE/blob/master/webpack/proxyTable.md)
+
+
 
