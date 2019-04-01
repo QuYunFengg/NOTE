@@ -4,7 +4,7 @@
 
 ## 项目资源
 
-1. [es6转es5的初始化项目](www.baidu.com)
+1. [es6转es5的初始化项目](https://github.com/QuYunFengg/NOTE/tree/master/javascript/Es6ToEs5)
 
 ## 文章目录 
 
