@@ -8,7 +8,12 @@
 
 ## 文章目录 
 
-1.  [webpack proxyTable设置跨域](https://github.com/QuYunFengg/NOTE/blob/master/webpack/proxyTable.md)
+1. [webpack proxyTable设置跨域](https://github.com/QuYunFengg/NOTE/blob/master/webpack/proxyTable.md)
 
+2. [Chrome Devtools Performance使用指南(转载)](https://github.com/QuYunFengg/NOTE/blob/master/Performance%26optimization/Chrome%20Devtools%20Performance%E4%BD%BF%E7%94%A8.md)
+
+3. [android唤醒屏幕](https://github.com/QuYunFengg/NOTE/blob/master/android/android%E8%87%AA%E5%8A%A8%E5%94%A4%E9%86%92%E5%B1%8F%E5%B9%95/android%E5%94%A4%E9%86%92%E5%B1%8F%E5%B9%95.md)
+
+4. [easynvr或视频播放器自动播放问题](https://github.com/QuYunFengg/NOTE/blob/master/javascript/easynvr%E6%88%96%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E8%87%AA%E5%8A%A8%E6%92%AD%E6%94%BE/easynvr%E6%88%96%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E8%87%AA%E5%8A%A8%E6%92%AD%E6%94%BE.md)
 
 
