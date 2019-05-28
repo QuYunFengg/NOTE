@@ -6,6 +6,8 @@
 
 1. [es6转es5的初始化项目](https://github.com/QuYunFengg/NOTE/tree/master/javascript/Es6ToEs5)
 
+2. [开发问题点解决记录](https://github.com/QuYunFengg/NOTE/blob/master/Other.md)
+
 ## 文章目录 
 
 1. [webpack proxyTable设置跨域](https://github.com/QuYunFengg/NOTE/blob/master/webpack/proxyTable.md)
