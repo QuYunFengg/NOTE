@@ -18,4 +18,6 @@
 
 4. [easynvr或视频播放器自动播放问题](https://github.com/QuYunFengg/NOTE/blob/master/javascript/easynvr%E6%88%96%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E8%87%AA%E5%8A%A8%E6%92%AD%E6%94%BE/easynvr%E6%88%96%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E8%87%AA%E5%8A%A8%E6%92%AD%E6%94%BE.md)
 
+5. [android使用webview查看页面console](https://github.com/QuYunFengg/NOTE/blob/master/android/android%E4%BD%BF%E7%94%A8webview%E6%9F%A5%E7%9C%8B%E9%A1%B5%E9%9D%A2console/android%E4%BD%BF%E7%94%A8webview%E6%9F%A5%E7%9C%8B%E9%A1%B5%E9%9D%A2console.md)
+
 
